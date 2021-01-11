@@ -1,0 +1,82 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "nama": "Nikoletta Ciepluch",
+      "email": "nciepluch0@w3.org",
+      "alamat": "49729 Hudson Terrace"
+    },
+    {
+      "id": 2,
+      "nama": "Humberto Hutten",
+      "email": "hhutten4@japanpost.jp",
+      "alamat": "8997 Dakota Park"
+    },
+    {
+      "id": 3,
+      "nama": "Hussein Niccols",
+      "email": "hniccols2@youku.com",
+      "alamat": "7443 Fairfield Pass"
+    },
+    {
+      "id": 4,
+      "nama": "Aili Vobes",
+      "email": "avobes3@weebly.com",
+      "alamat": "73 Village Green Court"
+    },
+    {
+      "id": 5,
+      "nama": "Theresina Kettle",
+      "email": "tkettle5@dell.com",
+      "alamat": "910 Fuller Center"
+    },
+    {
+      "id": 6,
+      "nama": "Millard Gladding",
+      "email": "mgladding0@networkadvertising.org",
+      "alamat": "2081 Jenna Junction"
+    },
+    {
+      "id": 7,
+      "nama": "Ali Seabrooke",
+      "email": "aseabrooke1@ucla.edu",
+      "alamat": "824 Heath Terrace"
+    },
+    {
+      "id": 8,
+      "nama": "Alphonse Buddleigh",
+      "email": "abuddleigh2@mozilla.org",
+      "alamat": "5 Del Sol Lane"
+    },
+    {
+      "id": 9,
+      "nama": "Phip Maypother",
+      "email": "pmaypother3@prnewswire.com",
+      "alamat": "7 Cascade Circle"
+    },
+    {
+      "id": 10,
+      "nama": "Judon Casino",
+      "email": "jcasino4@pbs.org",
+      "alamat": "8 Independence Hill"
+    },
+    {
+      "id": 11,
+      "nama": "Clary Pawnsford",
+      "email": "cpawnsford5@wix.com",
+      "alamat": "65246 Columbus Alley"
+    },
+    {
+      "id": 12,
+      "nama": "Phillip Gresser",
+      "email": "pgresser6@yellowbook.com",
+      "alamat": "1 Briar Crest Way"
+    },
+    {
+      "id": 13,
+      "nama": "Nikolas Dubble",
+      "email": "ndubble7@topsy.com",
+      "alamat": "929 Main Plaza"
+    }
+  ]
+}
